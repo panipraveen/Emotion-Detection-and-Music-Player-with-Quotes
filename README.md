@@ -1,4 +1,4 @@
-# Emotion-detection and Music Player with Quotes.
+# Emotion-detection and Music Player with Quotes
 
 ## Introduction
 
