@@ -2,9 +2,8 @@
 
 ## Introduction
 
-Uses a CNN Model of 63.2% Accuracy to recognize emotion of a human from a live feed of a webcam and then using the result from that playing music in a music player, the music playlist gets updated based on the emotion change in the human. 
-
-This Project is an extension from the Live Emotion Detection Project by Atul Para which you can find here (https://github.com/atulapra/Emotion-detection)
+Uses a CNN Model of 63.2% Accuracy to recognize emotion of a human from a live feed of a webcam and then using the result from that playing music in a music player, displaying quotes based on the emotion the music playlist gets updated based on the emotion change in the human. 
+The application also notes down which emotions were triggered and how many times in a excel file.
 
 ## Dependencies
 
@@ -46,7 +45,7 @@ This Project is an extension from the Live Emotion Detection Project by Atul Par
 
 
 ## References
-* https://github.com/atulapra/Emotion-detection
+* This Project is an extension from the Live Emotion Detection Project by Atul Para which you can find here (https://github.com/atulapra/Emotion-detection)
 
 * "Challenges in Representation Learning: A report on three machine learning contests." I Goodfellow, D Erhan, PL Carrier, A Courville, M Mirza, B
    Hamner, W Cukierski, Y Tang, DH Lee, Y Zhou, C Ramaiah, F Feng, R Li,  
